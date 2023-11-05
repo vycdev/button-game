@@ -154,10 +154,10 @@ body {
 }
 
 .text3d {
-    --shadowColor1: var(--color3);
+    --shadowColor1: #232323;
     --shadowColor2: var(--color5RGBValues);
 
-    color: var(--color2);
+    color: #4ca9ff;
     text-shadow: 
         1px 1px 1px var(--shadowColor1), 
         1px 2px 1px var(--shadowColor1), 
